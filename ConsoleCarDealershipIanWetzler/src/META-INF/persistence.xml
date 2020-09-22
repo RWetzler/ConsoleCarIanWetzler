@@ -5,9 +5,9 @@
 		<class>model.Car</class>
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/carLot"/>
-			<property name="javax.persistence.jdbc.user" value="root"/>
-			<property name="javax.persistence.jdbc.password" value="3edc%TGBzx7"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://cis175.crhsawwcvbw6.us-east-1.rds.amazonaws.com/carLot"/>
+			<property name="javax.persistence.jdbc.user" value="admin"/>
+			<property name="javax.persistence.jdbc.password" value="cis175RobertWetzler"/>
 		</properties>
 	</persistence-unit>
 </persistence>
